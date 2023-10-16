@@ -6,11 +6,7 @@ oldgreeting.greet()
 
 function basicHaiku()
 {
-
     return ["Toward those short trees","dIT IS lastig","dit is student 2."]
-
-  
-
 }
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
